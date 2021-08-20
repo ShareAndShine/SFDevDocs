@@ -1,0 +1,66 @@
+{
+  "centers": [
+    {
+      "center_id": 578539,
+      "name": "Bhabhru Phc",
+      "address": "Bhabhru",
+      "state_name": "Rajasthan",
+      "district_name": "Jaipur I",
+      "block_name": "Virat Nagar",
+      "pincode": 303119,
+      "lat": 70,
+      "long": 70,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "29f6d2ec-674b-4251-98e0-0c473e3ead19",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 694607,
+      "name": "SMS HOSPITAL 18-44",
+      "address": "SMS HOSPITAL",
+      "state_name": "Rajasthan",
+      "district_name": "Jaipur I",
+      "block_name": "Jaipur I Urban",
+      "pincode": 302004,
+      "lat": 26,
+      "long": 75,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "c69b6e4e-7ee5-4cd0-a3a2-d9f3d501495f",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 18,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+  ]
+}
